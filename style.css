@@ -1,0 +1,76 @@
+body{
+    margin: 0em;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1{
+    font-size: 35px;
+ 
+}
+h3{
+    color: rgb(71, 39, 158);
+    font-weight: 700;
+}
+
+.name{
+    color: steelblue;
+}
+.myclass{
+    width: 40%;
+    float: left;
+    margin-left: 2% ;
+    padding-left: 2%;
+     
+} 
+.myclass p{
+    font-size: 20px;
+    color: indigo;
+}
+.myclass img{
+    width: 60%;
+    margin-left: 30%;
+    height: 400px;
+}
+#sec{
+    width: 60%;
+    margin-right: 30%;
+}
+
+section{
+    height: 400px;
+}
+
+.link{
+    text-decoration: none;
+    font-weight: 800;
+    font-family: cursive;
+    color: whitesmoke;
+    background-image: linear-gradient(45deg, rgb(131 141 203), rgb(47 63 154));
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.three{
+    margin: 2cm;
+}
+.dream{
+    margin: 2cm;
+}
+.you{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 60%; 
+}
+#mine{
+    border-left: 10px solid;
+    border-image: linear-gradient( 180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+
+}
+#mine2{
+    border-right: 10px solid;
+    border-image: linear-gradient( 150deg, rgb(158, 67, 25), rgb(221, 150, 138));
+    border-image-slice: 1;
+}
+footer p{
+    text-align: right;
+}
